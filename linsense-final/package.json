@@ -1,0 +1,7 @@
+{
+  "name": "linksense",
+  "private": true,
+  "scripts": {
+    "start": "node \"retake - Copy/retake - Copy/Phishguard/backend/server.js\""
+  }
+}
