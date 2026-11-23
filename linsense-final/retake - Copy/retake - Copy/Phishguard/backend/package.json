@@ -1,0 +1,13 @@
+{
+  "name": "linksense-reputation-backend",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Server-side reputation aggregation for the LinkSense browser extension",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
